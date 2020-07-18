@@ -4,8 +4,8 @@
 Run CellMapModel1and2.m and CellMatModel3and4.m to generate the following figures. 
 
 <p align="center">
-  <img src="Baseline.png" width="256" height="256">
-  <img src="User-Type2.png" width="256" height="256">
-  <img src="User-Type1.png" width="256" height="256">
-  <img src="User-Type3.png" width="256" height="256">
+  <img src="Baseline.png" width="256" height=auto>
+  <img src="User-Type2.png" width="256" height=auto>
+  <img src="User-Type1.png" width="256" height=auto>
+  <img src="User-Type3.png" width="256" height=auto>
 </p>
