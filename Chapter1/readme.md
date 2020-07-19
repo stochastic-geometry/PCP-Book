@@ -14,7 +14,7 @@ Please cite the following paper if you are using these images/source-code.
 
 ```
 @article{saha20173gpp,
-  title={3GPP-inspired HetNet model using Poisson cluster process: Sum-product functionals and downlink coverage},
+  title={{3GPP}-inspired {HetNet} model using {P}oisson cluster process: {S}um-product functionals and downlink coverage},
   author={Saha, Chiranjib and Afshang, Mehrnaz and Dhillon, Harpreet S},
   journal={IEEE Transactions on Communications},
   volume={66},
